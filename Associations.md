@@ -3,6 +3,8 @@ Team Associations
 
 Current team associations.
 
+Team definitions are part of grml-constitution.
+
 Kernel
 ======
 
