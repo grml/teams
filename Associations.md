@@ -1,7 +1,7 @@
-Teams
-=====
+Team Associations
+=================
 
-Current teams.
+Current team associations.
 
 Kernel
 ======
